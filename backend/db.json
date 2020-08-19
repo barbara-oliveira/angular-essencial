@@ -26,14 +26,14 @@
       "id": 5
     },
     {
-      "name": "Veio do formulário",
-      "price": "123.99",
-      "id": 6
-    },
-    {
       "name": "Novo produto do formulário",
       "price": "100.90",
       "id": 8
+    },
+    {
+      "name": "Cachorro de pelúcia",
+      "price": "123.33",
+      "id": 9
     }
   ]
 }
